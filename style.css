@@ -11,7 +11,7 @@ body{
 
 #carouselExampleIndicators{
     width: 70%;
-    max-width: 500px;
+    max-width: 700px;
     margin: 0 auto;
 }
 
@@ -38,4 +38,11 @@ body{
     left:0;
     right:0;
     background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.2), rgba(0,0,0,0.7)) ;
-  }
+}
+
+.works-container{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
