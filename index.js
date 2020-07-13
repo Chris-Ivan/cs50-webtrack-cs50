@@ -7,7 +7,8 @@ const texts = [
     "Every single question is a 'really good question', I like that idea",
     "The production quality is way too good!",
     "To think us self-learners have access to this kind of materials from amazing teacher like David for free...",
-    "What really matters in this course is not much where you end up relative to your classmates, but where you end up relative to yourself when you began."
+    "What really matters in this course is not where you end up relative to your classmates, but where you end up relative to yourself when you began.",
+    "2/3 of you have never taken CS before and 49% of you describe yourself as someone 'less comfortable', but now I can officialy declare that 100% of you are 'more comfortable'."
 ]
 
 const btn = document.querySelector("#changeText");
